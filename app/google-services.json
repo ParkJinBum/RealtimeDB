@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "656262304216",
+    "firebase_url": "https://realtimedb-6a816.firebaseio.com",
+    "project_id": "realtimedb-6a816",
+    "storage_bucket": "realtimedb-6a816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656262304216:android:c213eb8ec34fbf65",
+        "android_client_info": {
+          "package_name": "kr.ac.kmu.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656262304216-a44dpghtbl9mp7sivc5dgb5gqc51e837.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGL156wBjlARVRkblS2MBREn70PtRtBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
